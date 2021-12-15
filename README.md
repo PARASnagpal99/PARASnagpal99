@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PARASnagpal99
-- 👀 I’m interested in web development ,  data structures and algorithms(in c/c++). 
-- 🌱 I’m currently learning 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning various algorithms and web development . 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
