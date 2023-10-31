@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Final Year Student at JCBUST , YMCA .<br>🌱 I’m currently learning GoLang and Backend Development .<br>👯 I’m looking for Internships and to collaborate on Projects .<br>💬 Ask me about Algorithms, Data Structures, and Competitive Programming .<br>😄 Pronouns: He/Him .<br>⚡ Fun fact: I love watching Anime .
+🔭 Final Year Student at JCBUST , YMCA .<br>🌱 I’m currently learning Full Stack Web development .<br>👯 I’m looking for Internships and to collaborate on Projects .<br>💬 Ask me about Algorithms, Data Structures, and Competitive Programming .<br>😄 Pronouns: He/Him .<br>⚡ Fun fact: I love watching Anime .
 
 
 ## 🌐 Socials:
