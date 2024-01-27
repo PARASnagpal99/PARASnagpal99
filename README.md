@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Final Year Student at JCBUST , YMCA .<br>🌱 I’m currently working as SDE Intern at Rupeek and Learning Full Stack Development(Java and MERN) .<br>👯 I’m looking for Projects to contribute  .<br>💬 Ask me about Algorithms, Data Structures, and Competitive Programming .<br>😄 Pronouns: He/Him .<br>⚡ Fun fact: I love watching Anime .
+🔭 Final Year Student at JCBUST , YMCA .<br>🌱 I’m currently learning Full Stack Development(Java and MERN) .<br>👯 I’m looking for Projects to contribute  .<br>💬 Ask me about Algorithms, Data Structures, and Competitive Programming .<br>😄 Pronouns: He/Him .<br>⚡ Fun fact: I love watching Anime .
 
 
 ## 🌐 Socials:
