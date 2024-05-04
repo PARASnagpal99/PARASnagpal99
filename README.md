@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Final Year Student at JCBUST , YMCA .<br>🌱 I’m currently learning Java Springboot and VueJS .<br>🌱 I’m currently working on ReferralRocket .<br>👯 I’m looking for Fulltime Opportunities  .<br>💬 Ask me about Algorithms, Data Structures, and Competitive Programming .<br>😄 Pronouns: He/Him .<br>⚡ Fun fact: I love watching Anime .
+🔭 Final Year Student at JCBUST , YMCA .<br>🌱 I’m currently learning Java Springboot and VueJS .<br>🚀 I’m currently working on Referral Rocket .<br> 👯 I’m looking for Fulltime Opportunities  .<br>💬 Ask me about Algorithms, Data Structures, and Competitive Programming .<br>😄 Pronouns: He/Him .<br>⚡ Fun fact: I love watching Anime .
 
 
 ## 🌐 Socials:
