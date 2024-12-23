@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 Final Year Student at JCBUST , YMCA .<br>🌱 I’m currently learning Java Springboot and VueJS .<br>🚀 I’m currently working on Referral Rocket .<br> 👯 I’m looking for Fulltime Opportunities  .<br>💬 Ask me about Algorithms, Data Structures, and Competitive Programming .<br>😄 Pronouns: He/Him .<br>⚡ Fun fact: I love watching Anime .
+🔭 Working as SDE-1 at Rupeek Fintech , Passionate about tech .
+<br>🌱 I’m currently learning Java and System Design.
+<br>🚀 I’m currently working on a Lead Management Platform.
+<br> 👯 I’m looking for Fulltime Opportunities  .
+<br>💬 Ask me about Algorithms, Data Structures, and Competitive Programming .
+<br>😄 Pronouns: He/Him .
+<br>⚡ Fun fact: I love watching Anime .
 
 
 ## 🌐 Socials:
